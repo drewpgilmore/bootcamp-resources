@@ -1,0 +1,31 @@
+h1 {
+    position: fixed;
+    top: 50%;
+    right: 40%;
+    left: 40%;
+} 
+
+h2 {
+    position: fixed;
+    top: 60%;
+    right: 40%;
+    left: 40%;
+}
+
+h3 {
+    position: relative;
+    top: 0px;
+    right: 0px;
+}
+
+h4 {
+    position: relative;
+    top: 95%;
+    left: 500px;
+}
+
+h5 {
+    position: fixed;
+    top: 50%;
+    left: 0px;
+}
